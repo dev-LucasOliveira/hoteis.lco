@@ -1,7 +1,7 @@
 body {
     margin-top: 0;
     padding: 0;
-    background-color: #c8d6d6;
+    background-color: #0e2425;
 }
 
 #page {
@@ -22,12 +22,12 @@ body {
     border-radius: 7px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #0e2425;
+    background-color: #ffffffa9;
     margin-top: 15px;
 }
 
 #title1 {
-    color: #c8d6d6;
+    color: #0e2425;
 }
 
 #imageBox {
@@ -68,37 +68,37 @@ body {
 .buttonClass1 {
     width: 30px;
     height: 30px;
-    background-color: #0e2425;
-    color: #c8d6d6;
+    background-color: transparent;
+    color: #ffffffa9;
     border-radius: 10px;
-    border: none;
+    border: 2px solid #ffffffa9;
 }
 
 .buttonClass1:hover {
     width: 30px;
     height: 30px;
-    background-image: linear-gradient(to right, #1e4d503a, #72a9ac3a);
-    color: #c8d6d6;
+    background-image: linear-gradient(to right, #ffffff1c, #ffffff0a);
+    color: #ffffffa9;
     border-radius: 10px;
     cursor: pointer;
-    border: none;    
+    border: 2px solid #ffffffa9;
 }
 
 .buttonClass2 {
     width: 150px;
     height: 30px;
-    background-color: #0e2425;
-    color: #c8d6d6;
+    background-color: transparent;
+    color: #ffffffa9;
     border-radius: 10px;
-    border: none;
+    border: 2px solid #ffffffa9;
 }
 
 .buttonClass2:hover {
     width: 150px;
     height: 30px;
-    background-image: linear-gradient(to right, #1e4d503a, #72a9ac3a);
-    color: #c8d6d6;
+    background-image: linear-gradient(to right, #ffffff1c, #ffffff0a);
+    color: #ffffffa9;
     border-radius: 10px;
     cursor: pointer;
-    border: none;
+    border: 2px solid #ffffffa9;
 }
