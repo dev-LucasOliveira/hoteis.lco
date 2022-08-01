@@ -1,0 +1,104 @@
+body {
+    margin-top: 0;
+    padding: 0;
+    background-color: #c8d6d6;
+}
+
+#page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#titleBox {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 99%;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0e2425;
+    margin-top: 15px;
+}
+
+#title1 {
+    color: #c8d6d6;
+}
+
+#imageBox {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#buttonBox {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+#buttonBox1 {
+    margin-right: 280px;
+}
+
+#buttonBox2 {
+    margin-right: 280px;
+}
+
+#imageHTML {
+    height: 400px;
+    border-radius: 10px;
+}
+
+.buttonClass1 {
+    width: 30px;
+    height: 30px;
+    background-color: #0e2425;
+    color: #c8d6d6;
+    border-radius: 10px;
+    border: none;
+}
+
+.buttonClass1:hover {
+    width: 30px;
+    height: 30px;
+    background-image: linear-gradient(to right, #1e4d503a, #72a9ac3a);
+    color: #c8d6d6;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;    
+}
+
+.buttonClass2 {
+    width: 150px;
+    height: 30px;
+    background-color: #0e2425;
+    color: #c8d6d6;
+    border-radius: 10px;
+    border: none;
+}
+
+.buttonClass2:hover {
+    width: 150px;
+    height: 30px;
+    background-image: linear-gradient(to right, #1e4d503a, #72a9ac3a);
+    color: #c8d6d6;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
